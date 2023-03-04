@@ -5,36 +5,19 @@ include_once("functions.php");
 <html lang="es">
 
 <head>
-	<script data-ad-client="ca-pub-5867472885387312" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0" />
 	<title>Ejemplo de url amigable con php</title>
-	<link rel="shortcut icon" href="https://jaimefranko.com/wp-content/uploads/2016/09/spinner.png" defer />
+	<link rel="shortcut icon" href="" defer />
 	<!-- CSS  -->
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" defer>
 	<!-- Compiled and minified CSS -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" defer>
-	<meta name="description" content="Blog de Noticias, Invertir, Bitcoin, Tecnología, Freenlacer, Apps, PSD, Flyers, Diseño Grafico, Marketing, SEO, Video Juegos" />
+	<meta name="description" content="" />
 	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
 	<link rel="canonical" href="https://jaimefranko.com/" />
-	<meta property="og:locale" content="es_ES" />
-	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Blog de tecnologia, seo, marketing, diseño, apps, bitcoin | Jaime Franko" />
-	<meta property="og:description" content="Blog de Noticias, Invertir, Bitcoin, Tecnología, Freenlacer, Apps, PSD, Flyers, Diseño Grafico, Marketing, SEO, Video Juegos" />
-	<meta property="og:url" content="https://jaimefranko.com/" />
-	<meta property="og:site_name" content="Jaime Franko Blog" />
-	<meta property="fb:app_id" content="1760805120874258" />
-	<meta property="og:image" content="https://jaimefranko.com/wp-content/uploads/2016/09/Facebook_Cover.png" />
-	<meta property="og:image:secure_url" content="https://jaimefranko.com/wp-content/uploads/2016/09/Facebook_Cover.png" />
-	<meta property="og:image:width" content="851" />
-	<meta property="og:image:height" content="315" />
-	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:description" content="Blog de Noticias, Invertir, Bitcoin, Tecnología, Freenlacer, Apps, PSD, Flyers, Diseño Grafico, Marketing, SEO, Video Juegos" />
-	<meta name="twitter:title" content="Blog de tecnologia, seo, marketing, diseño, apps, bitcoin | Jaime Franko" />
-	<meta name="twitter:site" content="@jaimefrankoweb" />
-	<meta name="twitter:image" content="https://jaimefranko.com/wp-content/uploads/2016/09/Facebook_Cover.png" />
-	<meta name="twitter:creator" content="@jaimefrankoweb" />
-
+	
 </head>
 
 <body>
