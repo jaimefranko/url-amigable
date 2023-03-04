@@ -14,18 +14,6 @@ include_once("functions.php");
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" defer>
 	<!-- Compiled and minified CSS -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" defer>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-83866247-1"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-
-		function gtag() {
-			dataLayer.push(arguments);
-		}
-		gtag('js', new Date());
-
-		gtag('config', 'UA-83866247-1');
-	</script>
 	<meta name="description" content="Blog de Noticias, Invertir, Bitcoin, Tecnología, Freenlacer, Apps, PSD, Flyers, Diseño Grafico, Marketing, SEO, Video Juegos" />
 	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
 	<link rel="canonical" href="https://jaimefranko.com/" />
@@ -46,66 +34,6 @@ include_once("functions.php");
 	<meta name="twitter:site" content="@jaimefrankoweb" />
 	<meta name="twitter:image" content="https://jaimefranko.com/wp-content/uploads/2016/09/Facebook_Cover.png" />
 	<meta name="twitter:creator" content="@jaimefrankoweb" />
-	<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>
-		{
-			"@context": "https://schema.org",
-			"@graph": [{
-				"@type": ["Person", "Organization"],
-				"@id": "https://jaimefranko.com/#/schema/person/395717fb4c234129c715857fc6011709",
-				"name": "jaimefranko",
-				"image": {
-					"@type": "ImageObject",
-					"@id": "https://jaimefranko.com/#personlogo",
-					"url": "https://secure.gravatar.com/avatar/87539fcb67e41dd003bd967a308f5d5e?s=96&d=mm&r=g",
-					"caption": "jaimefranko"
-				},
-				"logo": {
-					"@id": "https://jaimefranko.com/#personlogo"
-				},
-				"description": "\u00a1Hola! mi nombre es Jaime Franco soy Full Stack Developer, desde el 2010 estoy creando proyectos en diferentes \u00e1reas de este maravilloso mundo digital, desde entonces puedo decir que cada d\u00eda se aprende algo nuevo.",
-				"sameAs": ["http://facebook.com/jaimefranko", "http://instagram.com/jaimefrankoweb", "https://www.pinterest.com/jaimefranko/", "https://twitter.com/jaimefrankoweb", "https://www.youtube.com/channel/UC3uQr4yfceUl0_l2WjAqQmA"]
-			}, {
-				"@type": "WebSite",
-				"@id": "https://jaimefranko.com/#website",
-				"url": "https://jaimefranko.com/",
-				"name": "Jaime Franko",
-				"description": "Noticias, Invertir, Bitcoin, Tecnolog\u00eda, Freenlacer, Apps",
-				"publisher": {
-					"@id": "https://jaimefranko.com/#/schema/person/395717fb4c234129c715857fc6011709"
-				},
-				"potentialAction": {
-					"@type": "SearchAction",
-					"target": "https://jaimefranko.com/?s={search_term_string}",
-					"query-input": "required name=search_term_string"
-				}
-			}, {
-				"@type": "ImageObject",
-				"@id": "https://jaimefranko.com/#primaryimage",
-				"url": "https://jaimefranko.com/wp-content/uploads/2016/09/Facebook_Cover.png",
-				"width": 851,
-				"height": 315,
-				"caption": "Jaime Franko"
-			}, {
-				"@type": "WebPage",
-				"@id": "https://jaimefranko.com/#webpage",
-				"url": "https://jaimefranko.com/",
-				"inLanguage": "es",
-				"name": "Blog de tecnologia, seo, marketing, dise\u00f1o, apps, bitcoin | Jaime Franko",
-				"isPartOf": {
-					"@id": "https://jaimefranko.com/#website"
-				},
-				"about": {
-					"@id": "https://jaimefranko.com/#/schema/person/395717fb4c234129c715857fc6011709"
-				},
-				"primaryImageOfPage": {
-					"@id": "https://jaimefranko.com/#primaryimage"
-				},
-				"datePublished": "2015-12-30T15:42:59+00:00",
-				"dateModified": "2020-01-12T16:19:17+00:00",
-				"description": "Blog de Noticias, Invertir, Bitcoin, Tecnolog\u00eda, Freenlacer, Apps, PSD, Flyers, Dise\u00f1o Grafico, Marketing, SEO, Video Juegos"
-			}]
-		}
-	</script>
 
 </head>
 
@@ -122,18 +50,7 @@ include_once("functions.php");
 			<a data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
 		</div>
 	</nav>
-	<div class="section no-pad-bot" id="index-banner">
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- ejemplo_php horizontal -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5867472885387312"
-     data-ad-slot="4717488291"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
 		<div class="container">
 			
 			<br><br>
