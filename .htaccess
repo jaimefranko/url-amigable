@@ -1,0 +1,3 @@
+RewriteEngine On 
+RewriteBase /
+RewriteRule ^(.*)-([0-9]{1,8}).html$ /ruta-de-mi-php.php?id=$2
